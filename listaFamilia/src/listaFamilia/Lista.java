@@ -11,11 +11,12 @@ import java.io.OutputStreamWriter;
 
 public class Lista {
 
-	private static String nomeArquivo = "/Users/Sergio/Google Drive/Igreja/Lista de Discípulos/LISTA DE FAMÍLIAS 2016.csv";
-	private static String nomeArquivoNovo = "/Users/Sergio/Google Drive/Igreja/Lista de Discípulos/LISTA_FAMILIAS_2016.csv";
+	private static String splitter = ";";
+	private static String diretorio = "C:\\Users\\tc008685\\GIT\\igreja\\listaFamilia\\res\\";
+	private static String nomeArquivo = diretorio + "LISTA DE FAMILIAS 2016.csv";
+	private static String nomeArquivoNovo = diretorio + "LISTA_FAMILIAS_2016.csv";
 	
 	public static void main(String[] args) throws IOException {
-		String splitter = ",";
 		File arquivo = new File(nomeArquivo);
 		File arquivoNovo = new File(nomeArquivoNovo);
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(arquivo), "windows-1252"));
