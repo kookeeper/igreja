@@ -37,6 +37,11 @@ public class Lista {
 			}
 			novaLinha += linha + splitter;
 		}
+		if (novaLinha != "") {
+			writer.write(novaLinha);
+			writer.newLine();
+		}
+		
 		writer.flush();
 		writer.close();
 		reader.close();

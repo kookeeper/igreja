@@ -76,7 +76,7 @@ CAMPOS;Gentil Pereira de;09/10/41;12/05/73;gentil.jpg;5511-2618;96025-5250;;;gen
 CÂNDIDO;Maria do Carmo Cândido (LIA);28/10/15;;;5931-8303;;5052-8271;Recepcionista;mdo.candido@bol.com.br;Rua Manoel Nóbrega de Albuquerque,12 , CEP: 04890-100, São Paulo - SP
 ;Helenice Maia Cândido;05/06/15;;;;99998-6678;;;helenice-candido@bol.com.br;
 ;;;;;;;;;;
-CARDOSO;Ana Virgínia R. Pereira;27/02/58;;;5506-5455;986716621;;domestica;;Rua Ferreiropolis, 7, bloco 3, apt 14
+CARDOSO;Ana Virgínia R. Pereira;27/02/58;;anaVirginia.jpg;5506-5455;986716621;;domestica;;Rua Ferreiropolis, 7, bloco 3, apt 14
 ;Rafael;;;;;;;;;
 ;Ellen Cristiane Serafim;;;;;;;;;
 ;;;;;;;;;;
@@ -99,7 +99,7 @@ CORREIA;Lucas Hidemitsu Gomes Correia;24/05/91;;lucas.jpg;4169-7116;97584-0053;-
 ;;;;;;;;;;
 DANTAS;Denis Rabelo;02/10/87;;denis.jpg;;98964-9568;3037-6048;Administrador;rabelo.dantas@gmail.com;Av. Jabaquara, 2400 ap. 210, Pl. Paulista, CEP: 04046-400 – S. Paulo – SP
 ;;;;;;;;;;
-DE MARCO;Siok Ina Kolar;10/08/58;;;4413-1026;97113-2025;;psicologa;siok.ina@gmail.com;Rua Magnolia 101, casa 10
+DE MARCO;Siok Ina Kolar;10/08/58;;ina.jpg;4413-1026;97113-2025;;psicologa;siok.ina@gmail.com;Rua Magnolia 101, casa 10
 ;Pedro Tjhio Kolar;08/09/84;;;;8628-5132;;;demarco.pedro@gmail.com;R. Dr. Plínio Barreto, 159 ap. 78, Cerqueira Cesar, CEP: 01313-000 - SP
 ;Marília Tjhio Kolar;04/04/88;;;;8240-3552;;administradora;marilia.demarco@gmail.com;R. Dr. Plínio Barreto, 159 ap. 78, Cerqueira Cesar, CEP: 01313-000  - SP
 ;;;;;;;;;;
@@ -136,7 +136,7 @@ FORTUNATO;Josefina;08/10/15;;;;95287-2544;;;;R. Manoel da Nóbrega, 2064, Jd. Pau
 ;;;;;;;;;;
 FRANCA;Francisco Adecimar P.;03/04/80;;franca.jpg;;98489-0476;;sapateiro;fapfranca@hotmail.com;
 ;;;;;;;;;;
-FRANCO;Mercedes Franco Joaquim;31/12/15;;;3673-4918;;;;;R. Paris, 534, Sumarezinho, CEP: 01257-040 – S. Paulo – SP
+FRANCO;Mercedes Franco Joaquim;31/12/15;;mercedes.jpg;3673-4918;;;;;R. Paris, 534, Sumarezinho, CEP: 01257-040 – S. Paulo – SP
 ;;;;;;;;;;
 GASPE;Maurício Gaspe;07/05/64;18/07/87;;2367-0518;99961-0790;5505-2734;Gerente Administrativo;gaspe-refimat@hotmail.com;R. Barão Jaceguai,650, Campo Belo, CEP: 04606-000 - São Paulo - SP
 ;Teresa Cristina Glashan Gaspe;18/03/64;;;;99839-1237;;Administradora;teresa.gaspe@hotmail.com;
@@ -226,7 +226,7 @@ PEREIRA;Ramios;04/09/36;;ramios.jpg;47823061;;;;;Rua Planalto, 79, Jd. Sto Eduar
 ;;;;;;;;;;
 PESSOA;Kelly;31/08/81;;;3698-2728;98256-6136;;Técnica em banho e tosa;;Av. Marechal João Batista Mascarenhas de Moraes,1.868, São Pedro, CEP: 06172-280, Osasco - SP
 ;;;;;;;;;;
-PESTANA;Paulo José Cesar ;10/02/15;09/09/89;;4587-7543;;;Dentista;;Rua Albino Puttini,97, CEP: 13209-462 - Vila Guarani, Jundiaí - SP
+PESTANA;Paulo José Cesar ;10/02/15;09/09/89;pestana.jpg;4587-7543;;;Dentista;;Rua Albino Puttini,97, CEP: 13209-462 - Vila Guarani, Jundiaí - SP
 ;Aurélia Cássia de Castro Telles Cesar Pestana (Nina);25/09/15;;;;99146-8255;;Dentista;aureliapestana@yahoo.com.br;
 ;Nilo de Castro Telles Cesar Pestana;06/06/90;;;;98022-9210;;;nilopestana@gmail.com;
 ;Barbara de Castro Telles Cesar Pestana;16/12/96;;;;95712-1527;;;barbara_castrotellescesar@hotmail.com;
@@ -248,7 +248,7 @@ ROCHA;Roberto;13/08/45;03/05/80;;3714-8513;99614-4011;;Engenheiro;rcrocha08@gmai
 ;Daniel Bottaro da;25/03/82;;;;99659-5976;;Prof.de Educação Física;daniel.bottaro@hotmail.com;
 ;Rafael Bottaro da;01/05/86;;;;99658-6466;;Designer Gráfico;;
 ;;;;;;;;;;
-ROCHA;Guilherme Bottaro da Rocha;14/09/84;24/11/12;;;99958-5311;;Tecnólogo Oftalmológico;recebeste@gmail.com;Av Mascolte, 1.381, apto 43, Vl. Mascote, CEP: 04363-001 – S. Paulo - SP
+ROCHA;Guilherme Bottaro da Rocha;14/09/84;24/11/12;guilherme.jpg;;99958-5311;;Tecnólogo Oftalmológico;recebeste@gmail.com;Av Mascolte, 1.381, apto 43, Vl. Mascote, CEP: 04363-001 – S. Paulo - SP
 ;(Larissa) Silva Reis Neves da Rocha;12/08/85;;;;99619-3847;;Tecnólogo Oftalmológico;laneves12@yahoo.com.br;
 ;;;;;;;;;;
 RODRIGUES;Armando Bento de Paulo Rodrigues;05/06/36;05/12/70;armando.jpg;3731-4383;99457-0895;;;;Av. Marechal Fiuza de Castro , 709, Butantã - CEP:05596-000 - São Paulo-SP
@@ -288,7 +288,7 @@ SANTOS;Leonardo Santos Barbosa;26/05/74;07/05/95;;2339-6339;96917-8950;5851-1634
 SANTOS;Valdívio Rodrigues dos;07/12/43;;valdivio.jpg;37842984;;;;;R Anésio João da Silva, 133, apto 34-B, Jd. Educandário, CEP: 05563-080 – S. Paulo – SP
 ;Luzia Soares dos;12/08/31;;;;952039239;;;;
 ;;;;;;;;;;
-SHU;Marcos;10/11/50;12/06/80;;4412-9792;99887-3717;;medico;;Av Lucas Siqueira Franco, 104, Itaperi, CEP: 1294-170 – Atibaia, SP
+SHU;Marcos;10/11/50;12/06/80;bwee.jpg;4412-9792;99887-3717;;medico;;Av Lucas Siqueira Franco, 104, Itaperi, CEP: 1294-170 – Atibaia, SP
 ;Bwee Tjhio;17/11/55;;;;99885-0675;4033-3710 – 4414-6020;medica;bwee_shu@hotmail.com;
 ;;;;;;;;;;
 SHU;Fabiana Tjhio;12/03/88;;;;;;administradora;fabiana.shu@gmail.com;Rua Padre Leonardo, 536, Ed Inês, apto 52, Nova Piraju
@@ -328,7 +328,7 @@ SOUZA;Cleber Batista de;17/07/66;28/03/98;;2638-1179;99908-3131;2149-8550;Progra
 ;Otávio Henrique de;15/09/02;;;;;;;;
 ;Ana Beatriz de;01/09/05;;;;;;;;
 ;;;;;;;;;;
-SOUZA;Clayton Batista de;16/12/70;17/04/99;;2640-7188;98237-5839;;Securitário;cdsouza@hotmail.com;Rua Professor Guilherme Belfort Sabino, 1524, apto 33, bloco 3, Campininha, CEP: 04678-002 – S. Paulo - SP
+SOUZA;Clayton Batista de;16/12/70;17/04/99;tereza.jpg;2640-7188;98237-5839;;Securitário;cdsouza@hotmail.com;Rua Professor Guilherme Belfort Sabino, 1524, apto 33, bloco 3, Campininha, CEP: 04678-002 – S. Paulo - SP
 ;Tereza dos Santos Soares de;09/06/74;;;;98563-3777;;Professora;tereza.ss@hotmail.com;
 ;Nicole de;14/03/06;;;;;;;;
 ;Monique de;30/04/12;;;;;;;;
@@ -356,10 +356,10 @@ VIEIRA;Rafael Vieira;30/01/86;15/12/12;;4301-0580;97550-2833;3078-1118;Arte fina
 ;Carolina Carlim Vieira;31/07/88;;;;99599-9132;;Administração;carolcarlim@gmail.com;
 ;Gustavo;;;;;;;;;
 ;;;;;;;;;;
-VIEIRA;Edson Luís;02/07/77;11/07/09;;2532-6296;97202-9087;;analista de sistemas;edsonlv213@gmail.com;Rua José Benedito Salinas, 100, apto 212-C, Jd Itapeva, CEP: 04674-200
+VIEIRA;Edson Luís;02/07/77;11/07/09;edson.jpg;2532-6296;97202-9087;;analista de sistemas;edsonlv213@gmail.com;Rua José Benedito Salinas, 100, apto 212-C, Jd Itapeva, CEP: 04674-200
 ;Vanessa Cristina de Oliveira;07/11/75;;;;99887-4663;;secretaria;vanessacristtina@hotmail.com;
 ;;;;;;;;;;
-YANO;Mako;17/08/15;;;;96438-5453;;;;R. Rocha, 490 ap. 82, Bela Vista, CEP: 01330-000 – S. Paulo – SP
+YANO;Mako;17/08/15;;mako.jpg;;96438-5453;;;;R. Rocha, 490 ap. 82, Bela Vista, CEP: 01330-000 – S. Paulo – SP
 ;;;;;;;;;;
 ALVARENGA;Pedro Augusto Barcelos;;;;;98783-2885;;;;Av. Gal. Mac Arthur, 81, Jaguaré, CEP: 05338-000 - S. Paulo – SP
 ;;;;;;;;;;
@@ -380,7 +380,7 @@ COELHO;Maria Iolanda;;;;3258-5895;;;;;Av. Ipiranga, 200 Bl. B ap. 114, Centro CE
 EVANGELISTA;(Wilson) de Freitas Evangelista;;28/11/14;;;99565-7964;;;wilsonfreitasevan@hotmail.com;Estrada do Copiuva, 1390, bl 1, apto 157, Vila da Oportunidade, Carapicuíba – SP
 ;Kelly Caroline Mascaro Evangelista;;;;;98510-2138;;;kelly.mascaro@hotmail.com;
 ;;;;;;;;;;
-FERREIRA;Nélio Ferreira;;18/03/00;;;98470-0930;;;sandrafisiobiolab@yahoo.com.br;Estrada São Francisco, 1668, bloco 3, apto 122, Jd Henriqueta, CEP: 06765-000 – Taboão da Serra -SP
+FERREIRA;Nélio Ferreira;;18/03/00;sandrinha.jpg;;98470-0930;;;sandrafisiobiolab@yahoo.com.br;Estrada São Francisco, 1668, bloco 3, apto 122, Jd Henriqueta, CEP: 06765-000 – Taboão da Serra -SP
 ;Sandra Ferreira;;;;;;;;;
 ;Paula;;;;;;;;;
 ;;;;;;;;;;
@@ -458,3 +458,4 @@ XAVIER;Juciano José;;;;3442-7903;;;;;Al. dos Tupinás, 126 c. 20, Planalto Paulis
 ;;;;;;;;;;
 JORGE;JORGE;;;;;;;;;
 ;;;;;;;;;;
+SANTOS;DÉBORA VIVIANE DE OLIVEIRA SANTOS;26/06/1989;;debora.jpg;2774-2525;97690-1641;3123-8555;;;R. ADOLFO GORDO, 100 – APTO. 96 - Campos Elísios - S. Paulo - SP
