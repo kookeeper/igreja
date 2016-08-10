@@ -20,8 +20,8 @@ public class Lista {
 	public static void main(String[] args) throws IOException {
 		File arquivo = new File(nomeArquivo);
 		File arquivoNovo = new File(nomeArquivoNovo);
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(arquivo), "utf-8"));
-		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(arquivoNovo), "utf-8"));
+		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(arquivo), "utf-16"));
+		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(arquivoNovo), "utf-16"));
 		processarArquivo(reader, writer);
 	}
 
