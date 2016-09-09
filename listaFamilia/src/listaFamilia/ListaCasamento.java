@@ -12,11 +12,11 @@ import java.io.OutputStreamWriter;
 public class ListaCasamento {
 
 	private static String splitter = "	";
-	private static String diretorio = "/Users/Sergio/git/igreja/listaFamilia/res/";
-	private static String nomeArquivo = diretorio + "LISTA DE FAMILIAS 2016 2.txt";
+	private static String diretorio = "./res/";
+	private static String nomeArquivo = diretorio + "LISTA DE FAMILIAS 2016.txt";
 	private static String nomeArquivoNovo = diretorio + "LISTA_CASAIS_2016.txt";
 
-	public static void main(String[] args) throws IOException {
+	public static void gerarArquivo() throws IOException {
 		File arquivo = new File(nomeArquivo);
 		File arquivoNovo = new File(nomeArquivoNovo);
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(arquivo), "utf-16"));

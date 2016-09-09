@@ -9,12 +9,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-public class ListaProfissao {
+public class ListaAniversario {
 
 	private static String splitter = "	";
 	private static String diretorio = "./res/";
 	private static String nomeArquivo = diretorio + "LISTA DE FAMILIAS 2016.txt";
-	private static String nomeArquivoNovo = diretorio + "LISTA_PROFISSAO_2016.txt";
+	private static String nomeArquivoNovo = diretorio + "LISTA_ANIVERSARIO_2016.txt";
 
 	public static void gerarArquivo() throws IOException {
 		File arquivo = new File(nomeArquivo);
@@ -24,13 +24,18 @@ public class ListaProfissao {
 				new OutputStreamWriter(new FileOutputStream(arquivoNovo), "utf-16"));
 
 		String linha = reader.readLine();
-		writer.write("Nome	Profissão	Telefone");
+		String sobrenome = "";
+		writer.write("Nome	Nascimento");
 		writer.newLine();
+
 		while ((linha = reader.readLine()) != null) {
 			String[] campos = linha.split(splitter);
 
-			if ((campos.length > 9) && (!campos[9].equals(""))) {
-				writer.write(campos[2] + "	" + campos[9] + "	" + campos[8]);
+			if ((campos.length > 1) && (!campos[0].equals("")))
+				sobrenome = campos[0];
+
+			if ((campos.length > 3) && (!campos[3].equals(""))) {
+				writer.write(campos[2] + "	" + campos[3]);
 				writer.newLine();
 			}
 		}
