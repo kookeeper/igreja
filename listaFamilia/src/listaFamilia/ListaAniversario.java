@@ -24,18 +24,14 @@ public class ListaAniversario {
 				new OutputStreamWriter(new FileOutputStream(arquivoNovo), "utf-16"));
 
 		String linha = reader.readLine();
-		String sobrenome = "";
-		writer.write("Nome	Nascimento");
+		writer.write("Nome	Nascimento	Sexo");
 		writer.newLine();
 
 		while ((linha = reader.readLine()) != null) {
 			String[] campos = linha.split(splitter);
 
-			if ((campos.length > 1) && (!campos[0].equals("")))
-				sobrenome = campos[0];
-
-			if ((campos.length > 3) && (!campos[3].equals(""))) {
-				writer.write(campos[2] + "	" + campos[3]);
+			if ((campos.length > 4) && (!campos[4].equals(""))) {
+				writer.write(campos[2] + "	" + campos[4] + "	" + campos[3]);
 				writer.newLine();
 			}
 		}

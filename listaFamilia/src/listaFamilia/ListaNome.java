@@ -24,16 +24,13 @@ public class ListaNome {
 				new OutputStreamWriter(new FileOutputStream(arquivoNovo), "utf-16"));
 
 		String linha = reader.readLine();
-		String sobrenome = "";
-		writer.write("Nome");
+		writer.write("Nome	Sexo");
 		writer.newLine();
 		while ((linha = reader.readLine()) != null) {
 			String[] campos = linha.split(splitter);
 
 			if (campos.length > 1) {
-				if (!campos[0].equals(""))
-					sobrenome = campos[0];
-				writer.write(campos[2]);
+				writer.write(campos[2] + "	" + campos[3]);
 				writer.newLine();
 			}
 		}

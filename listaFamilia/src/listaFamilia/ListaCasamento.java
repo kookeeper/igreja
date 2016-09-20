@@ -41,7 +41,7 @@ public class ListaCasamento {
 				continue;
 			}
 
-			if (campos.length < 3)
+			if (campos.length < 4)
 				continue;
 
 			if (campos[1].equals("p")) {
@@ -52,11 +52,11 @@ public class ListaCasamento {
 				mulher = campos[2];
 			}
 
-			if (campos.length < 5)
+			if (campos.length < 6)
 				continue;
 
-			if (!campos[4].equals("")) {
-				casamento = campos[4];
+			if (!campos[5].equals("")) {
+				casamento = campos[5];
 			}
 		}
 

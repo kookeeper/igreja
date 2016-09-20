@@ -29,8 +29,8 @@ public class ListaProfissao {
 		while ((linha = reader.readLine()) != null) {
 			String[] campos = linha.split(splitter);
 
-			if ((campos.length > 9) && (!campos[9].equals(""))) {
-				writer.write(campos[2] + "	" + campos[9] + "	" + campos[8]);
+			if ((campos.length > 10) && (!campos[10].equals(""))) {
+				writer.write(campos[2] + "	" + campos[10] + "	" + campos[9]);
 				writer.newLine();
 			}
 		}
